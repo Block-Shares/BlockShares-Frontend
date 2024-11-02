@@ -11,7 +11,7 @@ const contact = () => {
   return (
     <div className="flex flex-col min-h-screen bg-black text-white">
       <header className="px-4 lg:px-6 h-14 flex items-center border-b border-emerald-800">
-        <Link href="/" className="text-lg font-bold text-emerald-500">TokenizedBiz</Link>
+        <Link href="/" className="text-lg font-bold text-emerald-500">Blockshares</Link>
         <nav className="ml-auto flex gap-4 sm:gap-6">
           <Link className="text-sm font-medium hover:text-emerald-500 transition-colors" href="/">
             Home
@@ -53,7 +53,7 @@ const contact = () => {
                 <div className="space-y-2">
                   <div className="flex items-center space-x-2 text-gray-400">
                     <Mail className="h-4 w-4 text-emerald-500" />
-                    <span>info@tokenizedbiz.com</span>
+                    <span>info@blockshares.com</span>
                   </div>
                   <div className="flex items-center space-x-2 text-gray-400">
                     <Phone className="h-4 w-4 text-emerald-500" />
@@ -87,7 +87,7 @@ const contact = () => {
         </section>
       </main>
       <footer className="flex flex-col gap-2 sm:flex-row py-6 w-full shrink-0 items-center px-4 md:px-6 border-t border-emerald-800">
-        <p className="text-xs text-gray-400">© 2024 TokenizedBiz. All rights reserved.</p>
+        <p className="text-xs text-gray-400">© 2024 Blockshares. All rights reserved.</p>
         <nav className="sm:ml-auto flex gap-4 sm:gap-6">
           <Link className="text-xs hover:underline underline-offset-4 text-gray-400" href="#">
             Terms of Service
