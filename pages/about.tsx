@@ -73,7 +73,7 @@ const about = () => {
               <div className="space-y-2">
                 <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl text-emerald-500">Join the Revolution</h2>
                 <p className="mx-auto max-w-[600px] text-gray-400 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  Whether you're a business looking to tokenize or an investor seeking new opportunities, TokenizedBiz is here to help you succeed.
+                  Whether you're a business looking to tokenize or an investor seeking new opportunities, Blockshares is here to help you succeed.
                 </p>
               </div>
               <div className="w-full max-w-sm space-y-2">
@@ -89,7 +89,7 @@ const about = () => {
         </section>
       </main>
       <footer className="flex flex-col gap-2 sm:flex-row py-6 w-full shrink-0 items-center px-4 md:px-6 border-t border-emerald-800">
-        <p className="text-xs text-gray-400">© 2024 TokenizedBiz. All rights reserved.</p>
+        <p className="text-xs text-gray-400">© 2024 Blockshares. All rights reserved.</p>
         <nav className="sm:ml-auto flex gap-4 sm:gap-6">
           <Link className="text-xs hover:underline underline-offset-4 text-gray-400" href="#">
             Terms of Service
